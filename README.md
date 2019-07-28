@@ -1,2 +1,2 @@
-# dkodr.github.io
+# dkodr.co
 Personal website
